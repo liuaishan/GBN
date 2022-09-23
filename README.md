@@ -1,4 +1,4 @@
-This is the repository for our paper "Towards Defending Multiple Lp-norm Bounded Adversarial Perturbations via Gated Batch Normalization".
+This is the repository for our paper "Towards Defending Multiple $\ell_{p}$-norm Bounded Adversarial Perturbations via Gated Batch Normalization".
 
 ## Prerequisites
 Create anaconda environment.
